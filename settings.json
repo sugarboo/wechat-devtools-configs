@@ -1,0 +1,13 @@
+{
+  "editor.lineHeight": 32,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Consolas, 'Microsoft YaHei', monospace",
+  "files.autoSave": "off",
+  "editor.wordWrap": "off",
+  "editor.minimap.enabled": true,
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true
+}
