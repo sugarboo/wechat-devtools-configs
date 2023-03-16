@@ -9,5 +9,8 @@
   "editor.wordWrap": "off",
   "editor.minimap.enabled": true,
   "workbench.editor.enablePreview": true,
-  "workbench.editor.enablePreviewFromQuickOpen": true
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "less.compile": {
+    "outExt": ".wxss"
+  }
 }
