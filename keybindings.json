@@ -1,0 +1,23 @@
+// 将键绑定放在此文件中以覆盖默认值auto[]
+[
+  {
+    "key": "ctrl+b",
+    "command": "-workbenchext.devtoolsBuiltIn.rebuild"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "workbenchext.devtoolsBuiltIn.toggleFileTree"
+  },
+  {
+    "key": "ctrl+shift+m",
+    "command": "-workbenchext.devtoolsBuiltIn.toggleFileTree"
+  },
+  {
+    "key": "ctrl+shift+t",
+    "command": "workbench.action.reopenClosedEditor"
+  },
+  {
+    "key": "ctrl+shift+t",
+    "command": "-workbenchext.devtoolsBuiltIn.toggleToolbar"
+  }
+]
